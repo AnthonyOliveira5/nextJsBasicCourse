@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "dev": "next dev"
+  },
   "dependencies": {
     "babel": "^6.23.0",
     "next": "^14.0.3",
